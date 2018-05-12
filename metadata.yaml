@@ -1,0 +1,30 @@
+_repo: '----_27165'
+_version: 0.1.0
+alternative_title: Xi Hu Meng Xun
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Zhang, Dai
+    alias: 張岱
+    birthdate: 1597
+    deathdate: 1679
+    gutenberg_agent_id: '31306'
+    url: http://www.gutenberg.org/2009/agents/31306
+    wikipedia: http://en.wikipedia.org/wiki/Zhang_dai
+description: ''
+gutenberg_issued: '2008-11-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27165'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'West Lake (China) -- Description and travel'
+- !lcc 'DS'
+- !lcsh 'West Lake (China) -- History'
+title: 西湖夢尋
+url: http://www.gutenberg.org/ebooks/27165
